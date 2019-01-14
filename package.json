@@ -1,7 +1,7 @@
 {
   "name": "heat-map-img",
-  "version": "0.2.0",
-  "description": "heat-map",
+  "version": "0.2.1",
+  "description": "heat-map heat-map-img 应用于vue项目",
   "main": "heatMap/index.js",
   "keywords": ["heat-map","heat-map-bg","heat-map-img"],
   "author": "berlinen",
