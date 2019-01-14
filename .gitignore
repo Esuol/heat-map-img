@@ -1,6 +1,11 @@
 .DS_Store
 node_modules
 /dist
+public
+
+# 忽略指定文件
+vue.config.js
+babel.config.js
 
 # local env files
 .env.local
